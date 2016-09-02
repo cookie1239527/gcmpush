@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://gcmuser:1234@ds019746.mlab.com:19746/chngpopo",
+
+    "gcm": {
+        "apiKey": "AIzaSyAcErlDfVnVmrl5-6ZE8jaCMWagm4fd7cY"
+    }
+}
